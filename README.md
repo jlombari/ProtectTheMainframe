@@ -1,6 +1,8 @@
 # Protect The Mainframe!
 A python-focused quiz game for beginner students. 
 
+![Game Menu](https://github.com/jlombari/ProtectTheMainframe/blob/main/Screenshot%202026-09-14%20170622.png)
+
 > Originally written as a text-based quiz game.
 
 > Reimagined into a visual novel style video game
