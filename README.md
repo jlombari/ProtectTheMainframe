@@ -1,4 +1,4 @@
-<img width="1780" height="1039" alt="image" src="https://github.com/user-attachments/assets/b1ed8ba9-7108-4865-850d-d26ef07647a4" /># Protect The Mainframe!
+# Protect The Mainframe!
 A python-focused quiz game for beginner students. 
 
 ![Game Menu](https://github.com/jlombari/ProtectTheMainframe/blob/main/MainMenu_Preview.png)
