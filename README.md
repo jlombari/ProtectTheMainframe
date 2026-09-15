@@ -11,7 +11,7 @@ A python-focused quiz game for beginner students.
 ## **Game Background**
 A robot named "H-3lP" needs your help defeating the detected bugs inside his mainframe!
 
-![gameplay](https://github.com/jlombari/ProtectTheMainframe/blob/main/GamePlay_Preview.png)
+![Game Play](https://github.com/jlombari/ProtectTheMainframe/blob/main/GamePlay_Preview.png)
 
 Crush the bugs by answering python-based questions correctly. 
 But whatch out! 
